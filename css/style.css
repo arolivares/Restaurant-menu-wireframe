@@ -1,21 +1,15 @@
-
-
-
+/* [class^="col"]{
+    max-height: 200px;
+    border: 1px solid black;
+} */
 
  .img-fluid{
-        max-height: 100%;
+        max-height: 75%;
     }
     body{
         background-color: rgb(218, 215, 211);
     }
-.container-fluid{
-    max-width: 100%;
-    margin:0 auto;
-    padding: 20px;
-    justify-content: center; 
-   align-items: center;
-   
-}
+
 
      
     
